@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rock.alarmclock.main"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+	<uses-permission android:name="android.permission.CALL_PHONE"/>
+	<uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	
+    <uses-permission android:name="android.permission.CAMERA" />
+	<uses-feature android:name="android.hardware.camera" />
+	
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+	
+	
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+        <activity
+            android:name="io.vov.vitamio.activity.InitActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+            
+        <activity
+            android:name="com.rock.alarmclock.main.AlarmActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.rock.alarmclock.preferences.AlarmPreferencesActivity"
+            android:label="@string/app_name" >
+        </activity>        
+        
+        <service
+            android:process="com.rock.alarmclock.service.AlarmService"
+            android:name="com.rock.alarmclock.service.AlarmService"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/app_name"
+            >
+        </service>
+		<receiver android:name="com.rock.alarmclock.service.AlarmServiceBroadcastReciever" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        
+        <activity
+            android:name = "com.rock.alarmclock.alert.AlarmAlertActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name = "com.rock.alarmclock.preferences.AlarmTaskActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+		<receiver android:name="com.rock.alarmclock.alert.AlarmAlertBroadcastReciever" >
+        </receiver>
+        <receiver android:name = "com.rock.alarmclock.telephony.PhoneStateChangedBroadcastReciever">
+            <intent-filter>
+                <action android:name="android.intent.action.PHONE_STATE" />
+            </intent-filter>
+        </receiver>
+        
+        
+        <meta-data android:value="52255bd956240be8e00529fa" android:name="UMENG_APPKEY"></meta-data>
+        <meta-data android:value="@string/channel_name" android:name="UMENG_CHANNEL"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CNR娱乐广播</name><playurl>mmsh://mms.cnr.cn/cnr015</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CNR神州之声</name><playurl>mmsh://mms.cnr.cn/cnr006</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CNR音乐之声</name><playurl>mmsh://mms.cnr.cn/cnr003</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CNR香港之声</name><playurl>mmsh://mms.cnr.cn/cnr007_p</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CNR高速广播</name><playurl>mmsh://mms.cnr.cn/cnr022</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CRI中文环球</name><playurl>mmsh://livexwb.cri.com.cn/aus</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CRI国际在线</name><playurl>mmsh://219.142.120.27/chn</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CRI客家之声</name><playurl>mmsh://live.cri.cn/hakka</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CRI环球伦敦台</name><playurl>mmsh://weblive.cri.cn/jyl</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CRI英语漫听电台</name><playurl>mmsh://live.cri.cn/english</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CRI轻松调频</name><playurl>mmsh://enmms.chinabroadcast.cn/fm91.5</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CRI都市流行</name><playurl>mmsh://live.cri.cn/pop</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>CRI闽南之音</name><playurl>mmsh://live.cri.cn/minnan.wsx</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>银河台中国民乐</name><playurl>mmsh://mms.cnr.cn/cnr018</playurl></channel></category>
+<category rank="1" name="国家台"><channel><rank>1</rank><name>银河台相声小品</name><playurl>mmsh://mms.cnr.cn/cnr020</playurl></channel></category>
+<category rank="1" name="上海"><channel><rank>1</rank><name>上海Love Radio</name><playurl>http://live-cdn1.smgbb.tv/channels/bbtv/audio_loveradio/flv:fm/live</playurl></channel></category>
+<category rank="1" name="上海"><channel><rank>1</rank><name>上海东广新闻台</name><playurl>http://live-cdn1.smgbb.tv/channels/bbtv/audio_dgxw/flv:fm/live</playurl></channel></category>
+<category rank="1" name="上海"><channel><rank>1</rank><name>上海东方都市广播</name><playurl>http://live-cdn1.smgbb.tv/channels/bbtv/audio_dfdt/flv:fm/live</playurl></channel></category>
+<category rank="1" name="上海"><channel><rank>1</rank><name>上海五星体育</name><playurl>http://live-cdn1.smgbb.tv/channels/bbtv/audio_sport/flv:fm/live</playurl></channel></category>
+<category rank="1" name="上海"><channel><rank>1</rank><name>上海交通广播电台</name><playurl>http://live-cdn1.smgbb.tv/channels/bbtv/audio_shjt/flv:fm/live</playurl></channel></category>
+<category rank="1" name="上海"><channel><rank>1</rank><name>上海人民广播电台</name><playurl>http://live-cdn1.smgbb.tv/channels/bbtv/audio_shdt/flv:fm/live</playurl></channel></category>
+<category rank="1" name="上海"><channel><rank>1</rank><name>上海动感101</name><playurl>http://live-cdn1.smgbb.tv/channels/bbtv/audio_101/flv:fm/live</playurl></channel></category>
+<category rank="1" name="上海"><channel><rank>1</rank><name>上海戏剧曲艺广播</name><playurl>http://live-cdn1.smgbb.tv/channels/bbtv/audio_xjqy/flv:fm/live</playurl></channel></category>
+<category rank="1" name="上海"><channel><rank>1</rank><name>上海故事广播</name><playurl>http://live-cdn1.smgbb.tv/channels/bbtv/audio_gsgb/flv:fm/live</playurl></channel></category>
+<category rank="1" name="上海"><channel><rank>1</rank><name>上海浦江之声</name><playurl>http://222.68.17.166:8787/channel0</playurl></channel></category>
+<category rank="1" name="上海"><channel><rank>1</rank><name>上海第一财经频率</name><playurl>http://live-cdn1.smgbb.tv/channels/bbtv/audio_dycj/flv:fm/live</playurl></channel></category>
+<category rank="1" name="上海"><channel><rank>1</rank><name>上海经典947</name><playurl>http://live-cdn1.smgbb.tv/channels/bbtv/audio_947/flv:fm/live</playurl></channel></category>
+<category rank="1" name="北京"><channel><rank>1</rank><name>北京音乐广播</name><playurl>http://122.49.28.30/fm974.mp3</playurl></channel></category>
+<category rank="1" name="四川"><channel><rank>1</rank><name>乐山新闻综合</name><playurl>http://218.6.224.19:8060/live/cbd535cf25f8477f9a909d203a82f299?fmt=mp3_64k_flv</playurl></channel></category>
+<category rank="1" name="四川"><channel><rank>1</rank><name>乐山音乐交通广播</name><playurl>http://218.6.224.19/live/960cd82fa8684e8a9b8c65e73d5022cc?fmt=mp3_64k_flv</playurl></channel></category>
+<category rank="1" name="四川"><channel><rank>1</rank><name>四川南部新闻综合广播</name><playurl>mmsh://218.89.49.75:52953</playurl></channel></category>
+<category rank="1" name="四川"><channel><rank>1</rank><name>德阳音乐交通广播</name><playurl>mmsh://scdytv.com:1755/1078</playurl></channel></category>
+<category rank="1" name="四川"><channel><rank>1</rank><name>成都快乐私家车</name><playurl>http://livecdn.cdbs.com.cn/fm1051.flv</playurl></channel></category>
+<category rank="1" name="四川"><channel><rank>1</rank><name>攀枝花汽车电台</name><playurl>mmsh://218.89.107.150:6062/2</playurl></channel></category>
+<category rank="1" name="四川"><channel><rank>1</rank><name>江油电台阳光调频</name><playurl>mmsh://976.jy339.com:8080</playurl></channel></category>
+<category rank="1" name="四川"><channel><rank>1</rank><name>眉山综合广播</name><playurl>mmsh://118.125.223.221:1052/</playurl></channel></category>
+<category rank="1" name="天津"><channel><rank>1</rank><name>天津MYFM100.5</name><playurl>http://myfmchina.radioactive-china.cn:80/myfmchina-tianjin.flash?type=.flv</playurl></channel></category>
+<category rank="1" name="天津"><channel><rank>1</rank><name>天津交通广播</name><playurl>mmsh://60.30.86.125/jtt</playurl></channel></category>
+<category rank="1" name="天津"><channel><rank>1</rank><name>天津小说广播</name><playurl>mmsh://60.30.86.125/xsht</playurl></channel></category>
+<category rank="1" name="天津"><channel><rank>1</rank><name>天津文艺广播</name><playurl>mmsh://60.30.86.125/wyt</playurl></channel></category>
+<category rank="1" name="天津"><channel><rank>1</rank><name>天津滨海广播</name><playurl>mmsh://60.30.86.125/bht</playurl></channel></category>
+<category rank="1" name="天津"><channel><rank>1</rank><name>天津音乐广播</name><playurl>mmsh://60.30.86.125/yyt</playurl></channel></category>
+<category rank="1" name="宁夏"><channel><rank>1</rank><name>宁夏交通广播</name><playurl>mmsh://218.95.156.68:13146/984</playurl></channel></category>
+<category rank="1" name="宁夏"><channel><rank>1</rank><name>宁夏新闻广播</name><playurl>mmsh://218.95.156.68:13146/1061</playurl></channel></category>
+<category rank="1" name="宁夏"><channel><rank>1</rank><name>宁夏经济广播</name><playurl>mmsh://218.95.156.68:13146/928</playurl></channel></category>
+<category rank="1" name="宁夏"><channel><rank>1</rank><name>宁夏都市广播</name><playurl>mmsh://218.95.156.68:13146/1037</playurl></channel></category>
+<category rank="1" name="安徽"><channel><rank>1</rank><name>合肥MYFM96.1</name><playurl>http://myfmchina.radioactive-china.cn/myfmchina-hefei.flash?type=.flv</playurl></channel></category>
+<category rank="1" name="安徽"><channel><rank>1</rank><name>天长人民广播电台</name><playurl>mmsh://183.167.220.91:946/FM1048</playurl></channel></category>
+<category rank="1" name="安徽"><channel><rank>1</rank><name>宣城交通文艺广播</name><playurl>mmsh://60.173.111.74:1061</playurl></channel></category>
+<category rank="1" name="安徽"><channel><rank>1</rank><name>宣城新闻综合广播</name><playurl>mmsh://60.173.111.74:1006</playurl></channel></category>
+<category rank="1" name="安徽"><channel><rank>1</rank><name>当涂人民广播电台</name><playurl>mmsh://220.178.254.186:1060</playurl></channel></category>
+<category rank="1" name="安徽"><channel><rank>1</rank><name>桐城交通音乐广播</name><playurl>mmsh://61.191.247.30:1193</playurl></channel></category>
+<category rank="1" name="安徽"><channel><rank>1</rank><name>芜湖交通经济广播</name><playurl>http://live.wuhubtv.com/channels/1652/128.flv/live</playurl></channel></category>
+<category rank="1" name="安徽"><channel><rank>1</rank><name>芜湖新闻综合广播</name><playurl>http://live.wuhubtv.com/channels/1653/128.flv/live</playurl></channel></category>
+<category rank="1" name="安徽"><channel><rank>1</rank><name>芜湖音乐故事广播</name><playurl>http://live.wuhubtv.com/channels/1654/128.flv/live</playurl></channel></category>
+<category rank="1" name="安徽"><channel><rank>1</rank><name>黄山交通旅游广播</name><playurl>mmsh://60.172.96.114:2266/jtgb</playurl></channel></category>
+<category rank="1" name="安徽"><channel><rank>1</rank><name>黄山新闻综合广播</name><playurl>mmsh://60.172.96.114:6556/live</playurl></channel></category>
+<category rank="1" name="山东"><channel><rank>1</rank><name>济南文艺广播</name><playurl>http://media-live-01.ijntv.com/channels/jinan/audio_wenyi/flv:fm/</playurl></channel></category>
+<category rank="1" name="山东"><channel><rank>1</rank><name>济南新闻广播</name><playurl>mmsh://radiolive.jnnc.com/news</playurl></channel></category>
+<category rank="1" name="山东"><channel><rank>1</rank><name>济南经济广播</name><playurl>mmsh://radiolive.jnnc.com/jingji</playurl></channel></category>
+<category rank="1" name="山东"><channel><rank>1</rank><name>济宁交通广播</name><playurl>mmsh://live.jnnews.tv:9009/jtgb</playurl></channel></category>
+<category rank="1" name="山东"><channel><rank>1</rank><name>济宁新闻广播</name><playurl>mmsh://live.jnnews.tv:9009/xwgb</playurl></channel></category>
+<category rank="1" name="山东"><channel><rank>1</rank><name>济宁经济生活广播</name><playurl>mmsh://live.jnnews.tv:9009/jjgb</playurl></channel></category>
+<category rank="1" name="山东"><channel><rank>1</rank><name>济宁音乐广播</name><playurl>mmsh://live.jnnews.tv:9009/ylgb</playurl></channel></category>
+<category rank="1" name="山东"><channel><rank>1</rank><name>滨州交通音乐广播</name><playurl>mmsh://222.134.45.91:8080</playurl></channel></category>
+<category rank="1" name="山东"><channel><rank>1</rank><name>潍坊音乐广播</name><playurl>mmsh://218.57.169.29:8070/simulradio887</playurl></channel></category>
+<category rank="1" name="山东"><channel><rank>1</rank><name>邹平故事音乐频道</name><playurl>mmsh://123.133.133.46:8080/fm1034</playurl></channel></category>
+<category rank="1" name="山西"><channel><rank>1</rank><name>太原交通台</name><playurl>mmsh://59.49.17.29:1153</playurl></channel></category>
+<category rank="1" name="山西"><channel><rank>1</rank><name>太原音乐广播</name><playurl>mmsh://211.142.13.211:8080/radio</playurl></channel></category>
+<category rank="1" name="陕西"><channel><rank>1</rank><name>西安MYFM105.5</name><playurl>http://myfmchina.radioactive-china.cn/myfmchina-xian.flash?type=.flv</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>DBC Digital We</name><playurl>http://58.64.197.165:8005/dbc5</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>DBC数码大声台</name><playurl>http://58.64.197.165:8001/dbc1</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>DBC数码大家台</name><playurl>http://58.64.197.165:8002/dbc2</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>DBC数码大戏台</name><playurl>http://58.64.197.165:8007/dbc7</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>DBC数码大晒台</name><playurl>http://58.64.197.165:8004/dbc4</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>DBC数码大歌台</name><playurl>http://58.64.197.165:8006/dbc6</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>DBC数码大钱台</name><playurl>http://58.64.197.165:8003/dbc3</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>华侨福音广播</name><playurl>http://radio3.cgbc.org:8000/1</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>华侨福音粤语台</name><playurl>http://radio.cgbc.org:8000/2.mp3</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>华侨福音诗歌台</name><playurl>http://radio.cgbc.org:8000/3.mp3</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>星岛电台粤语台</name><playurl>http://canlive.chineseradio.com:9034</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>香港D100有声台</name><playurl>http://66.55.135.155:8000/Channel1</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>香港on air power</name><playurl>mmsh://oap.cchongkong.com/live32</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>香港电台一台</name><playurl>mmsh://202.177.192.111/radio1</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>香港电台五台</name><playurl>mmsh://202.177.192.111/radio5</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>香港电台四台</name><playurl>mmsh://202.177.192.111/radio4</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>香港电台普通话台</name><playurl>mmsh://202.177.192.111/ptc</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>鳳凰URadio綜合台</name><playurl>http://live.hkuradio.com/radio1?download=1</playurl></channel></category>
+<category rank="1" name="香港"><channel><rank>1</rank><name>鳳凰URadio音樂台</name><playurl>http://live.hkuradio.com/radio2?download=1</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>1557音乐互动网</name><playurl>mmsh://media.ccdntech.com/wmtencoder/rti/cbs4.wmv</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>GoldFm台中92.9</name><playurl>mmsh://bcr.media.hinet.net/RA000028</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>HitFm臺中</name><playurl>mmsh://bcr.media.hinet.net/RA000035</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>HitFm臺北</name><playurl>mmsh://bcr.media.hinet.net/RA000036</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>HitFm高雄</name><playurl>mmsh://bcr.media.hinet.net/RA000034</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>ICRT</name><playurl>mmsh://bcr.media.hinet.net/RA000038</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>IC之音97.5</name><playurl>mmsh://bcr.media.hinet.net/RA000037</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>KCHN</name><playurl>http://kchnradio.serverroom.us:6528</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>KissRadio南投</name><playurl>mmsh://bcr.media.hinet.net/RA000043</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>KissRadio台南</name><playurl>mmsh://bcr.media.hinet.net/RA000044</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>KissRadio大众台</name><playurl>mmsh://bcr.media.hinet.net/RA000040</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>KissRadio大苗粟</name><playurl>mmsh://bcr.media.hinet.net/RA000041</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>KissRadio音樂台</name><playurl>mmsh://bcr.media.hinet.net/RA000042</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>NEWS98新闻网</name><playurl>mmsh://bcr.media.hinet.net/RA000073</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>POP Radio</name><playurl>mmsh://bcr.media.hinet.net/RA000080</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>中广古典网</name><playurl>mmsh://bcr.media.hinet.net/RA000005</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>中广客家频道 </name><playurl>mmsh://bcr.media.hinet.net/RA000006</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>中广新闻网</name><playurl>mmsh://bcr.media.hinet.net/RA000008</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>中广流行网</name><playurl>mmsh://bcr.media.hinet.net/RA000009</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>中广音乐网</name><playurl>mmsh://bcr.media.hinet.net/RA000007</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>云嘉广播电台</name><playurl>mmsh://61.218.197.179:1755</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>亚太电台</name><playurl>mmsh://bcr.media.hinet.net/RA000002</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>亚州电台</name><playurl>mmsh://bcr.media.hinet.net/RA000003</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>亚洲卫星音乐台</name><playurl>mmsh://bcr.media.hinet.net/RA000004</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>佳音CCM</name><playurl>mmsh://bcr.media.hinet.net/RA000031</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>佳音电台FM90.9</name><playurl>mmsh://bcr.media.hinet.net/RA000030</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>台中城市广播</name><playurl>mmsh://bcr.media.hinet.net/RA000046</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>台中好事903</name><playurl>mmsh://bcr.media.hinet.net/RA000011</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>台北健康电台</name><playurl>mmsh://bcr.media.hinet.net/RA000027</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>台北好事989</name><playurl>mmsh://bcr.media.hinet.net/RA000013</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>台北海洋频道</name><playurl>mmsh://bcr.media.hinet.net/RA000069</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>台北爱乐</name><playurl>mmsh://bcr.media.hinet.net/RA000018</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>台湾之音-FM</name><playurl>mmsh://bcr.media.hinet.net/RA000060</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>台湾之音-亚洲</name><playurl>mmsh://bcr.media.hinet.net/RA000059</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>台湾之音-华语</name><playurl>mmsh://bcr.media.hinet.net/RA000063</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>台湾之音欧美方言</name><playurl>mmsh://bcr.media.hinet.net/RA000062</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>台湾广播电台</name><playurl>mmsh://bcr.media.hinet.net/RA000068</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>台湾广播音乐网</name><playurl>mmsh://bcr.media.hinet.net/RA000047</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>国立教育台中分台</name><playurl>mmsh://203.71.144.120:7630/</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>国立教育莲花分台</name><playurl>mmsh://fm973.nerhl.gov.tw:1234/</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>复兴广播电台</name><playurl>mmsh://bcr.media.hinet.net/RA000026</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>复兴广播第一网</name><playurl>mmsh://bcr.media.hinet.net/RA000024</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>复兴广播第二网</name><playurl>mmsh://bcr.media.hinet.net/RA000025</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>大千电台FM99.1</name><playurl>mmsh://bcr.media.hinet.net/RA000067</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>大汉之音</name><playurl>mmsh://bcr.media.hinet.net/RA000021</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>大爱网络电台</name><playurl>http://radiolive.newdaai.tv:8020</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>太阳广播电台</name><playurl>mmsh://bcr.media.hinet.net/RA000064</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>宜兰中山电台</name><playurl>mmsh://bcr.media.hinet.net/RA000065</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>宝岛新声广播</name><playurl>mmsh://bcr.media.hinet.net/RA000066</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>新客家广播电台</name><playurl>mmsh://bcr.media.hinet.net/RA000048</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>正声台北调幅台</name><playurl>mmsh://bcr.media.hinet.net/RA000015</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>正声台北调频台</name><playurl>mmsh://bcr.media.hinet.net/RA000016</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>汉声广播电台</name><playurl>mmsh://bcr.media.hinet.net/RA000074</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>汉声广播调频</name><playurl>mmsh://bcr.media.hinet.net/RA000076</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>环宇广播</name><playurl>mmsh://bcr.media.hinet.net/RA000020</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>省都广播电台</name><playurl>mmsh://61.221.102.150:8080</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>真心之音电台</name><playurl>mmsh://bcr.media.hinet.net/RA000033</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>苹果线上</name><playurl>mmsh://bcr.media.hinet.net/RA000001</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>银河流行音乐台</name><playurl>mmsh://media.iwant-in.net/pop</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>飞扬调频895</name><playurl>mmsh://bcr.media.hinet.net/RA000019</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>飞碟电台</name><playurl>mmsh://bcr.media.hinet.net/RA000072</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>高屏溪客家电台</name><playurl>mmsh://bcr.media.hinet.net/RA000045</playurl></channel></category>
+<category rank="1" name="台湾"><channel><rank>1</rank><name>高雄港都983</name><playurl>mmsh://bcr.media.hinet.net/RA000012</playurl></channel></category>
+<category rank="1" name="黑龙江"><channel><rank>1</rank><name>黑河广播电台</name><playurl>mmsh://221.211.147.130:1041</playurl></channel></category>
+<category rank="1" name="云南"><channel><rank>1</rank><name>云南屏边广播电台</name><playurl>mmsh://61.166.63.107/pbdt</playurl></channel></category>
+<category rank="1" name="云南"><channel><rank>1</rank><name>云南蒙自广播电台</name><playurl>mmsh://61.166.63.107/mzdt</playurl></channel></category>
+<category rank="1" name="云南"><channel><rank>1</rank><name>红河交通广播 </name><playurl>mmsh://61.166.63.107/hhdt-music</playurl></channel></category>
+<category rank="1" name="云南"><channel><rank>1</rank><name>红河新闻广播</name><playurl>mmsh://61.166.63.107/hhdt-news</playurl></channel></category>
+<category rank="1" name="云南"><channel><rank>1</rank><name>红河民族广播</name><playurl>mmsh://61.166.63.107/hhdt-minzu</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>103.9HappyRadio</name><playurl>mmsh://live.fm1039.cc</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>内蒙古交通之声</name><playurl>http://61.134.115.164:9084/show.mp3</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>内蒙古新闻广播</name><playurl>http://61.134.115.164:9082/show.mp3</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>内蒙古新闻综合广播</name><playurl>http://61.134.115.164:9083/show.mp3</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>内蒙古经济生活</name><playurl>http://61.134.115.164:9085/show.mp3</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>内蒙古绿野之声</name><playurl>http://61.134.115.164:9088/show.mp3</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>内蒙古草原之声</name><playurl>http://61.134.115.164:9089/show.mp3</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>内蒙古蒙古语广播</name><playurl>http://61.134.115.164:9081/show.mp3</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>内蒙古评书曲艺</name><playurl>http://61.134.115.164:9087/show.mp3</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>内蒙古音乐之声</name><playurl>http://61.134.115.164:9086/show.mp3</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>巴彦淖尔河套之声</name><playurl>mmsh://116.112.102.46:8001</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>巴彦淖尔黄河之声</name><playurl>mmsh://116.112.102.46:8002</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>锡林郭勒交通之声</name><playurl>mmsh://60.31.137.2:8084</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>锡林郭勒汉语综合广播</name><playurl>mmsh://60.31.137.2:8082</playurl></channel></category>
+<category rank="1" name="内蒙古"><channel><rank>1</rank><name>锡林郭勒综合文艺广播</name><playurl>mmsh://60.31.137.2:8083</playurl></channel></category>
+<category rank="1" name="吉林"><channel><rank>1</rank><name>延广交通文艺台</name><playurl>mmsh://222.162.105.135:1011/</playurl></channel></category>
+<category rank="1" name="吉林"><channel><rank>1</rank><name>延边电台朝鲜语广播</name><playurl>http://202.111.175.222:9000</playurl></channel></category>
+<category rank="1" name="吉林"><channel><rank>1</rank><name>敦化人民广播电台</name><playurl>http://dhtv.jl.cn:9000/</playurl></channel></category>
+<category rank="1" name="吉林"><channel><rank>1</rank><name>白山人民广播电台</name><playurl>mmsh://122.140.96.51:10984</playurl></channel></category>
+<category rank="1" name="吉林"><channel><rank>1</rank><name>通化交通广播</name><playurl>mmsh://222.160.126.67:8080</playurl></channel></category>
+<category rank="1" name="吉林"><channel><rank>1</rank><name>通化新闻综合广播</name><playurl>mmsh://222.160.126.66:8080</playurl></channel></category>
+<category rank="1" name="吉林"><channel><rank>1</rank><name>通化评书广播</name><playurl>mmsh://222.160.126.68:8080</playurl></channel></category>
+<category rank="1" name="吉林"><channel><rank>1</rank><name>长春MYFM88.0</name><playurl>http://myfmchina.radioactive-china.cn/myfmchina-changchun.flash?type=.flv</playurl></channel></category>
+<category rank="1" name="吉林"><channel><rank>1</rank><name>长白山旅游之声</name><playurl>mmsh://222.162.105.135:1012/</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>佛山电台三水台</name><playurl>mmsh://113.105.250.135/906</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>佛山电台顺德台</name><playurl>mmsh://113.105.250.135/901</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>化州人民广播电台</name><playurl>mmsh://gdhzs.gicp.net:2008</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>吴川广播电台</name><playurl>mmsh://www.tvfm103.com:8081</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>广东HIFI频道</name><playurl>http://ctt.prmgd.com:8000/hifi</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>广东Sing Radio</name><playurl>http://ctt.prmgd.com:8000/fm1077</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>广东南方生活广播</name><playurl>http://ctt.prmgd.com:8000/fm936</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>广东故事频道</name><playurl>http://ctt.prmgd.com:8000/story</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>广东新闻频道</name><playurl>http://ctt.prmgd.com:8000/fm914</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>广东爱车SunFM</name><playurl>http://ctt.prmgd.com:8000/fm1036</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>广东珠江经济电台</name><playurl>http://ctt.prmgd.com:8000/fm974</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>广东电台优悦广播</name><playurl>http://ctt.prmgd.com:8000/fm1057</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>广东羊城交通台</name><playurl>http://ctt.prmgd.com:8000/fm1052</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>广东股市广播</name><playurl>http://ctt.prmgd.com:8000/fm953</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>广东音乐之声</name><playurl>http://ctt.prmgd.com:8000/fm993</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>惠州交通广播</name><playurl>http://live.hzrtv.cn/live/567ad037617b4dbca1cc753b2e81a8bc?fmt=aac_48k_flv</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>惠州新闻综合广播</name><playurl>http://live.hzrtv.cn/live/cbc5fbc3ccb84b67b09106dbc489c762?fmt=aac_48k_flv</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>新会人民广播电台</name><playurl>mmsh://220.249.194.135:8080/fm983/radio</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>梅州广播交通台</name><playurl>mmsh://112.91.122.34:999/1058</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>梅州广播新闻台</name><playurl>mmsh://112.91.122.34:999/948</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>汕尾广播综合频道</name><playurl>mmsh://119.146.239.43:10350</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>潮州交通音乐广播</name><playurl>mmsh://125.91.226.155:808/czdt914</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>潮州戏曲广播</name><playurl>mmsh://125.91.226.151/czdt1031</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>潮州综合频率</name><playurl>mmsh://125.91.226.150/czdt939</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>郁南人民广播</name><playurl>mmsh://fmm917.vicp.net:8080</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>阳江新闻资讯广播</name><playurl>mmsh://61.146.79.91:82/live3</playurl></channel></category>
+<category rank="1" name="广东"><channel><rank>1</rank><name>阳江音乐台</name><playurl>mmsh://61.146.79.91:82/live4</playurl></channel></category>
+<category rank="1" name="广西"><channel><rank>1</rank><name>成功895</name><playurl>mmsh://180.141.89.19:1353/guangxi/fm895</playurl></channel></category>
+<category rank="1" name="广西"><channel><rank>1</rank><name>钦州新闻综合广播</name><playurl>mmsh://218.21.78.118:1106</playurl></channel></category>
+<category rank="1" name="新疆"><channel><rank>1</rank><name>乌鲁木齐交通文艺广播</name><playurl>mmsh://222.80.184.141:8089/1033</playurl></channel></category>
+<category rank="1" name="新疆"><channel><rank>1</rank><name>伊犁交通文艺广播</name><playurl>mmsh://218.84.43.74:1512</playurl></channel></category>
+<category rank="1" name="新疆"><channel><rank>1</rank><name>伊犁哈语新闻综合</name><playurl>mmsh://218.84.43.74:1515</playurl></channel></category>
+<category rank="1" name="新疆"><channel><rank>1</rank><name>伊犁新闻综合频率</name><playurl>mmsh://218.84.43.74:1510</playurl></channel></category>
+<category rank="1" name="新疆"><channel><rank>1</rank><name>伊犁经济广播</name><playurl>mmsh://218.84.43.74:2010</playurl></channel></category>
+<category rank="1" name="新疆"><channel><rank>1</rank><name>伊犁维语新闻综合</name><playurl>mmsh://218.84.43.74:1514</playurl></channel></category>
+<category rank="1" name="新疆"><channel><rank>1</rank><name>新疆MYFM1039</name><playurl>http://myfmchina.radioactive-china.cn/myfmchina-urumqi.flash?type=.flv</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>丹阳交通音乐广播</name><playurl>mmsh://122.96.50.24:8081</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>丹阳新闻综合广播</name><playurl>mmsh://122.96.50.26:8081</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>仪征广播电台</name><playurl>mmsh://211.103.30.162:1062</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>南京MYFM1035</name><playurl>http://myfmchina.radioactive-china.cn/myfmchina-nanjing.flash?type=.flv</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>南京心动885</name><playurl>http://radio.itings.cn:8000/jrmgbdt</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>如东FM89.6</name><playurl>http://live.rdxmt.com/channels/rudong/fm/flv:sd/live</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>如皋汽车广播</name><playurl>mmsh://218.91.206.105:554/wmtencoder/fm983</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>宜兴交通广播</name><playurl>mmsh://61.160.122.19:1112</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>宜兴新闻广播</name><playurl>mmsh://61.160.122.19:1111</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>无锡交通广播</name><playurl>http://live2.thmz.com/channels/iptv/fm1069x/flv:sd/live</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>江阴快乐生活调频 </name><playurl>mmsh://www.jyradio.cn:555/106</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>盐城交通广播</name><playurl>http://live.0515yc.tv/channels/yctv/gb2/flv:gb2/live</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>盐城新闻综合频率</name><playurl>http://live.0515yc.tv/channels/yctv/gb1/flv:gb1/live?1329789924765</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>盐城黄海明珠广播</name><playurl>http://live.0515yc.tv/channels/yctv/gb3/flv:gb3/live</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>邳州人民广播电台</name><playurl>mmsh://222.187.112.150:8080</playurl></channel></category>
+<category rank="1" name="江苏"><channel><rank>1</rank><name>飞扬907江阴汽车电台</name><playurl>mmsh://www.jyradio.cn:555/907</playurl></channel></category>
+<category rank="1" name="江西"><channel><rank>1</rank><name>南昌MYFM96.9</name><playurl>http://myfmchina.radioactive-china.cn/myfmchina-nanchang.flash?type=.flv</playurl></channel></category>
+<category rank="1" name="江西"><channel><rank>1</rank><name>赣江之声FM92.3</name><playurl>mmsh://111.75.217.24:12345/ganzhou923</playurl></channel></category>
+<category rank="1" name="河北"><channel><rank>1</rank><name>沧州之声</name><playurl>mmsh://222.223.57.87:9002</playurl></channel></category>
+<category rank="1" name="河北"><channel><rank>1</rank><name>沧州交通音乐广播</name><playurl>mmsh://222.223.57.87:9001</playurl></channel></category>
+<category rank="1" name="河北"><channel><rank>1</rank><name>石家庄交通广播</name><playurl>http://live.sjzntv.cn/channels/sjzntv/tran946_channel_02/flv:tran/live</playurl></channel></category>
+<category rank="1" name="河北"><channel><rank>1</rank><name>石家庄农村广播</name><playurl>http://live.sjzntv.cn/channels/sjzntv/agri1251_channel_03/flv:agri/live</playurl></channel></category>
+<category rank="1" name="河北"><channel><rank>1</rank><name>石家庄新闻广播</name><playurl>http://live.sjzntv.cn/channels/sjzntv/new882_channel_01/flv:new/live</playurl></channel></category>
+<category rank="1" name="河北"><channel><rank>1</rank><name>石家庄经济广播</name><playurl>http://live.sjzntv.cn/channels/sjzntv/eco1009_channel_04/flv:eco/live</playurl></channel></category>
+<category rank="1" name="河北"><channel><rank>1</rank><name>石家庄音乐广播</name><playurl>http://live.sjzntv.cn/channels/sjzntv/music1067_channel_05/flv:music/live</playurl></channel></category>
+<category rank="1" name="河南"><channel><rank>1</rank><name>安阳交通广播</name><playurl>mmsh://61.163.75.51:88/jiaotongtai</playurl></channel></category>
+<category rank="1" name="河南"><channel><rank>1</rank><name>安阳好朋友881</name><playurl>mmsh://111.75.217.24:12345/anyang881</playurl></channel></category>
+<category rank="1" name="河南"><channel><rank>1</rank><name>安阳汽车音乐台</name><playurl>mmsh://61.163.75.51:88/music</playurl></channel></category>
+<category rank="1" name="河南"><channel><rank>1</rank><name>漯河立体声广播电台</name><playurl>mmsh://222.89.224.144:936</playurl></channel></category>
+<category rank="1" name="河南"><channel><rank>1</rank><name>焦作交通旅游广播 </name><playurl>mmsh://218.29.208.45:3733</playurl></channel></category>
+<category rank="1" name="河南"><channel><rank>1</rank><name>焦作生活文艺广播</name><playurl>mmsh://218.29.208.35:3733</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>三门人民广播电台</name><playurl>mmsh://218.108.144.162:8080/smdt</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>义乌新闻广播</name><playurl>http://live-01.ywcity.cn/channels/ywtv/audio_channel_02/flv:fm/live</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>义乌电台交通广播</name><playurl>http://live-01.ywcity.cn/channels/ywtv/audio_channel_01/flv:fm/live</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>乐清人民广播</name><playurl>mmsh://www.fm995.com.cn:9001/fm995</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>杭州交通经济</name><playurl>mmsh://vod2.hcrt.cn/fm918tt</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>杭州新闻综合</name><playurl>mmsh://vod2.hcrt.cn/AM954tt</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>浙江之声</name><playurl>http://r1.cztv.com/channels/1601/128.flv</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>浙江交通之声</name><playurl>http://r5.cztv.com/channels/1605/128.flv/live?1329967926578/0</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>浙江城市之声</name><playurl>http://122.225.200.150/channels/1604/128.flv/live?1329968239750</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>浙江女主播电台</name><playurl>http://r7.cztv.com/channels/1607/128.flv</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>浙江民生996</name><playurl>http://r3.cztv.com/channels/1603/128.flv</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>浙江财富广播</name><playurl>http://r2.cztv.com/channels/1602/128.flv/live?1329965923398/0</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>浙江音乐调频</name><playurl>http://r6.cztv.com/channels/1606/128.flv/live</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>玉环人民广播</name><playurl>mmsh://122.226.136.82:8080/radio/</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>绍兴交通广播</name><playurl>http://live.sxtv.com.cn/channels/shaoxing/audio_transport/flv:sd/live</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>绍兴新闻广播</name><playurl>http://live.sxtv.com.cn/channels/shaoxing/audio_news/flv:sd/live</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>绍兴音乐广播</name><playurl>http://live.sxtv.com.cn/channels/shaoxing/audio_music/flv:sd/live</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>萧山人民广播</name><playurl>mmsh://live.xianghunet.com/xs107.9/live.wmv</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>金华交通广播</name><playurl>mmsh://zb.36tv.net.cn/jhr3</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>金华新闻广播</name><playurl>mmsh://122.227.42.72/jhr1</playurl></channel></category>
+<category rank="1" name="浙江"><channel><rank>1</rank><name>金华经济广播私家车101 </name><playurl>mmsh://zb.36tv.net.cn/jhr2</playurl></channel></category>
+<category rank="1" name="海地"><channel><rank>1</rank><name>Love a Child FM </name><playurl>mmsh://169.130.151.125/haiti_radio</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>宜昌交通音乐台</name><playurl>mmsh://219.139.134.180:8180</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>宜昌新闻综合台</name><playurl>mmsh://219.139.134.180:8280</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>宜昌汽车台</name><playurl>mmsh://219.139.134.180:8380/</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>楚天交通广播</name><playurl>http://live9.hbtv.com.cn/channels/zbk/ctjt/flv:sd/live</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>楚天农村广播</name><playurl>http://live9.hbtv.com.cn/channels/zbk/ctnc/flv:sd/live</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>楚天音乐广播</name><playurl>http://live9.hbtv.com.cn/channels/zbk/ctyygb/flv:sd/live</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>湖北之声</name><playurl>http://live9.hbtv.com.cn/channels/zbk/hbzs/flv:sd/live</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>湖北时尚女性广播</name><playurl>http://live9.hbtv.com.cn/channels/zbk/flet/flv:sd/live</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>湖北生活广播</name><playurl>http://live9.hbtv.com.cn/channels/zbk/hbswgb/flv:sd/live</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>湖北私家车广播</name><playurl>http://live9.hbtv.com.cn/channels/zbk/tylygb/flv:sd/live</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>湖北经济广播</name><playurl>http://live9.hbtv.com.cn/channels/zbk/hbjjgb/flv:sd/live</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>湖北资讯广播</name><playurl>http://live9.hbtv.com.cn/channels/zbk/ctzx/flv:sd/live</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>湖北音乐广播</name><playurl>http://live9.hbtv.com.cn/channels/zbk/hbwygb/flv:sd/live</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>荆门交通音乐频率</name><playurl>mmsh://61.184.199.22:1090/</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>荆门城市生活广播</name><playurl>mmsh://www.radio123.com.cn:8080/</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>荆门新闻综合广播</name><playurl>mmsh://www.radio123.com.cn:1154/</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>黄冈交通广播</name><playurl>mmsh://www.hggb.cn:8081/</playurl></channel></category>
+<category rank="1" name="湖北"><channel><rank>1</rank><name>黄冈人民广播电台</name><playurl>mmsh://www.hggb.cn:8080</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>893汽车音乐电台</name><playurl>mmsh://124.232.138.238:8080/fm893</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>FM1022音乐广播</name><playurl>mmsh://fm1022com.gicp.net:1022</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>凤凰县旅游交通广播</name><playurl>mmsh://218.76.88.166:1085/</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>吉首交通音乐频道</name><playurl>mmsh://cssjs.oicp.net:17200</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>大眼睛湘潭1065</name><playurl>mmsh://113.247.251.30/95501</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>湖南交通频道</name><playurl>mmsh://124.232.138.238:8080/fm918</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>湖南快乐1045</name><playurl>mmsh://zoujian4177.eicp.net/fm1045</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>湖南旅游频道  </name><playurl>mmsh://124.232.138.238:8080/fm1069</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>湖南电台新闻频道</name><playurl>mmsh://124.232.138.238:8080/fm1028</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>湖南电台潇湘之声</name><playurl>mmsh://124.232.138.238:8080/fm938</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>湖南电台青春975</name><playurl>mmsh://124.232.138.238:8080/fm975</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>湖南经广魅力901  </name><playurl>mmsh://124.232.138.238:8080/fm901</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>湖南金鹰955电台</name><playurl>mmsh://113.247.251.30/95502</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>芒果Radio张家界之声</name><playurl>mmsh://124.232.138.28:8080/zhangjiajie</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>芒果Radio永州之声</name><playurl>mmsh://124.232.138.28:8080/yongzhou</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>芒果Radio湘西之声</name><playurl>mmsh://124.232.138.28:8080/xiangxi</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>芒果Radio益阳之声</name><playurl>mmsh://124.232.138.28:8080/yiyang</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>芒果Radio郴州之声</name><playurl>mmsh://124.232.138.28:8080/chenzhou</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>衡阳交通频道</name><playurl>mmsh://124.228.60.39:8800/fm1018</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>衡阳新闻频道</name><playurl>mmsh://124.228.60.39:8800/fm989</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>邵阳交通广播</name><playurl>mmsh://www.sy954.com:8088</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>郴州交通频道</name><playurl>mmsh://61.187.200.222:8090/fm1028</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>郴州汽车音乐电台</name><playurl>mmsh://61.187.200.222:8090/czgdfm</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>郴州私家车广播</name><playurl>mmsh://61.187.200.222:8090/fm1055</playurl></channel></category>
+<category rank="1" name="湖南"><channel><rank>1</rank><name>长沙快乐886</name><playurl>mmsh://222.240.184.34:20003</playurl></channel></category>
+<category rank="1" name="贵州"><channel><rank>1</rank><name>兴义新闻综合广播</name><playurl>mmsh://61.189.248.168:3778</playurl></channel></category>
+<category rank="1" name="贵州"><channel><rank>1</rank><name>黔东南人民广播电台</name><playurl>mmsh://fm1049.qdntv.com:1048/</playurl></channel></category>
+<category rank="1" name="贵州"><channel><rank>1</rank><name>黔西南交通旅游广播</name><playurl>mmsh://119.1.98.53:8080</playurl></channel></category>
+<category rank="1" name="贵州"><channel><rank>1</rank><name>黔西南新闻广播</name><playurl>mmsh://119.1.98.52:8080</playurl></channel></category>
+<category rank="1" name="辽宁"><channel><rank>1</rank><name>营口交通文艺广播</name><playurl>mmsh://www.ykrtv.com:1064</playurl></channel></category>
+<category rank="1" name="辽宁"><channel><rank>1</rank><name>辽宁乡村广播</name><playurl>mmsh://61.161.172.22:1088/live5</playurl></channel></category>
+<category rank="1" name="辽宁"><channel><rank>1</rank><name>辽宁交通广播</name><playurl>mmsh://61.161.172.22:1088/live4</playurl></channel></category>
+<category rank="1" name="辽宁"><channel><rank>1</rank><name>辽宁文艺广播</name><playurl>mmsh://61.161.172.22:1088/live3</playurl></channel></category>
+<category rank="1" name="辽宁"><channel><rank>1</rank><name>辽宁瓢虫台</name><playurl>mmsh://61.161.172.22:1088/live6</playurl></channel></category>
+<category rank="1" name="辽宁"><channel><rank>1</rank><name>辽宁经济广播</name><playurl>mmsh://61.161.172.22:1088/live2</playurl></channel></category>
+<category rank="1" name="辽宁"><channel><rank>1</rank><name>辽宁综合广播</name><playurl>mmsh://61.161.172.22:1088/live1</playurl></channel></category>
+<category rank="1" name="甘肃"><channel><rank>1</rank><name>甘肃交通广播</name><playurl>mmsh://live-stream.gstv.com.cn:8554/GB_JTTP</playurl></channel></category>
+<category rank="1" name="甘肃"><channel><rank>1</rank><name>甘肃农村广播</name><playurl>mmsh://live.gstv.com.cn:8554/GB_NCTP</playurl></channel></category>
+<category rank="1" name="甘肃"><channel><rank>1</rank><name>甘肃少儿广播</name><playurl>mmsh://live-stream.gstv.com.cn:8554/GB_SETP</playurl></channel></category>
+<category rank="1" name="甘肃"><channel><rank>1</rank><name>甘肃新闻综合广播</name><playurl>mmsh://live.gstv.com.cn:8554/GB_XWTP</playurl></channel></category>
+<category rank="1" name="甘肃"><channel><rank>1</rank><name>甘肃经济广播</name><playurl>mmsh://live-stream.gstv.com.cn:8554/GB_JJTP</playurl></channel></category>
+<category rank="1" name="甘肃"><channel><rank>1</rank><name>甘肃都市调频</name><playurl>mmsh://live-stream.gstv.com.cn:8554/GB_DSTP</playurl></channel></category>
+<category rank="1" name="甘肃"><channel><rank>1</rank><name>甘肃青春调频</name><playurl>mmsh://live-stream.gstv.com.cn:8554/GB_SETP</playurl></channel></category>
+<category rank="1" name="甘肃"><channel><rank>1</rank><name>白银人民广播电台</name><playurl>mmsh://115.85.197.250:6872/</playurl></channel></category>
+<category rank="1" name="福建"><channel><rank>1</rank><name>宁德人民广播电台</name><playurl>mmsh://27.156.143.70:1088/</playurl></channel></category>
+<category rank="1" name="福建"><channel><rank>1</rank><name>漳州交通广播</name><playurl>mmsh://koala.vicp.cc:1101/publishingpoint1</playurl></channel></category>
+<category rank="1" name="福建"><channel><rank>1</rank><name>漳州综合广播</name><playurl>mmsh://koala.vicp.cc:1117/publishingpoint1</playurl></channel></category>
+<category rank="1" name="网络"><channel><rank>1</rank><name>wradio口袋电台</name><playurl>mmsh://124.161.97.69/kzdt_new</playurl></channel></category>
+<category rank="1" name="网络"><channel><rank>1</rank><name>子夜声线网络电台</name><playurl>mmsh://live.ziyeradio.com/ziyeradio</playurl></channel></category>
+<category rank="1" name="网络"><channel><rank>1</rank><name>完美音乐在线</name><playurl>mmsh://audio.wanmei.com/music</playurl></channel></category>
+<category rank="1" name="网络"><channel><rank>1</rank><name>客家网络电台</name><playurl>mmsh://vip.cqccc.com:9090/hakka</playurl></channel></category>
+<category rank="1" name="网络"><channel><rank>1</rank><name>时尚NJ吧</name><playurl>mmsh://www.fsnj8.com:8080/Sample_Broadcast</playurl></channel></category>
+<category rank="1" name="网络"><channel><rank>1</rank><name>珊瑚虫之声</name><playurl>mmsh://media.itinghai.com/tingmx</playurl></channel></category>
+<category rank="1" name="网络"><channel><rank>1</rank><name>芝麻电台</name><playurl>mmsh://zhimadiantai.xicp.net:1755</playurl></channel></category>
+<category rank="1" name="网络"><channel><rank>1</rank><name>萤火虫网络电台</name><playurl>mmsh://www.fmyhc.com:1022/yhc-liv</playurl></channel></category>
+<category rank="1" name="网络"><channel><rank>1</rank><name>话匣子电台</name><playurl>http://radio.huaxiazi.com:8000/</playurl></channel></category>
+<category rank="1" name="网络"><channel><rank>1</rank><name>顺义人民广播电台</name><playurl>mmsh://61.50.151.7:212/push</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>123 All Classic Rock</name><playurl>mmsh://str4u.streamakaci.com/4uclassicrock</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>89.7 WKSU</name><playurl>mmsh://wksu.streamguys.com/WKSUlive</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>Classic Christmas ORS Radio</name><playurl>mmsh://wms4.orsradio.com/christmasclassic</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>Classic RNB ORS Radio</name><playurl>mmsh://wms4.orsradio.com/classicrnb</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>CSN International</name><playurl>mmsh://pensacolacclivewm.fplive.net/pensacolacclive-live/pcc_70k</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>DI.fm EuroDance Channel</name><playurl>http://pub7.di.fm/di_eurodance_aac?type=.flv</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>Instrumental BlueFM ORS Radio</name><playurl>mmsh://wms4.orsradio.com/classical</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>KCSM圣马特奥</name><playurl>mmsh://wm-live.abacast.com/kcsm-kcsmwmp641-64</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>KEXP西雅图</name><playurl>http://live1.kexp.org/</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>KING西雅图</name><playurl>mmsh://wm-live.abacast.com:80/king-kingfm-64</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>KIRO西雅图</name><playurl>http://stream.us.gslb.liquidcompass.net/KIROFMAAC</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>KMJO法哥</name><playurl>http://icy1.abacast.com/radiofm-kmjomobile-64</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>KPLU西雅图</name><playurl>http://icy1.abacast.com:80/kplu-newsjazzaac-64</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>Latin Live ORS Radio</name><playurl>mmsh://wms4.orsradio.com/latinlive</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>Navideo ORS Radio </name><playurl>mmsh://wms4.orsradio.com/christmaslatino</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>NPR</name><playurl>mmsh://a1671.l2063252432.c20632.g.lm.akamaistream.net/D/1671/20632/v0001/reflector:52432</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>Soul Music ORS Radio</name><playurl>mmsh://wms4.orsradio.com/soul</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>TWiT</name><playurl>http://twit.am:80/listen</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>vintage ORS Radio</name><playurl>mmsh://wms4.orsradio.com/vintage</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>VOA Special English</name><playurl>http://www.voanews.com/mp3/voa/english/spec/SPECIAL_ENGLISH_NEWS.mp3</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>Whisperings: Solo Piano Radio</name><playurl>http://pianosolo.streamguys.net/live</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>WNPR</name><playurl>http://sc7.lga.llnw.net:80/stream/cptv_mp3live?mp3</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>Xmas country ORS Radio</name><playurl>mmsh://wms4.orsradio.com/christmascountry</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>Xmas for kids ORS Radio</name><playurl>mmsh://wms4.orsradio.com/christmaskids</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>Xmas Hits ORS Radio</name><playurl>mmsh://wms4.orsradio.com/christmastop40</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>Xmas Instrumental ORS Radio</name><playurl>mmsh://wms4.orsradio.com/christmasinstrumental</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>美国CNN新闻</name><playurl>mms://a1477.l3760635476.c37606.n.lm.akamaistream.net/D/1477/37606/v0001/reflector:35476</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>美国IPR音乐</name><playurl>mmsh://pubint-wiaa.wm.llnwd.net/pubint_wiaa</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>美国之音现场新闻</name><playurl>mms://a98.l211056822.c2110.g.lm.akamaistream.net/D/98/2110/v0001/reflector:56822</playurl></channel></category>
+<category rank="1" name="美国"><channel><rank>1</rank><name>美国之音音乐广播</name><playurl>mmsh://a1905.l211052072.c2110.g.lm.akamaistream.net/D/1905/2110/v0001/reflector:52072</playurl></channel></category>
+<category rank="1" name="英国"><channel><rank>1</rank><name>BBC Radio 4 Extra</name><playurl>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_he_radio4extra_p</playurl></channel></category>
+<category rank="1" name="英国"><channel><rank>1</rank><name>Classic FM</name><playurl>http://media-ice.musicradio.com/ClassicFMMP3</playurl></channel></category>
+<category rank="1" name="英国"><channel><rank>1</rank><name>PEARadio</name><playurl>http://mega6.radioserver.co.uk:8030</playurl></channel></category>
+<category rank="1" name="英国"><channel><rank>1</rank><name>Resonance104.4fm</name><playurl>http://radio.canstream.co.uk:8004/live.mp3</playurl></channel></category>
+<category rank="1" name="澳大利亚"><channel><rank>1</rank><name>ABC Sydney</name><playurl>mmsh://a368.l11289730367.c112897.a.lm.akamaistream.net/D/368/112897/v0001/reflector:30367</playurl></channel></category>
+<category rank="1" name="澳大利亚"><channel><rank>1</rank><name>澳大利亚中文广播电台2CR</name><playurl>http://s6.voscast.com:8016</playurl></channel></category>
+<category rank="1" name="澳大利亚"><channel><rank>1</rank><name>澳大利亚中文广播电台3CW AM1620</name><playurl>http://streamer2.rightclickitservices.com:7220/;stream.mp3</playurl></channel></category>
+<category rank="1" name="澳大利亚"><channel><rank>1</rank><name>澳大利亚中文广播电台3CW</name><playurl>http://streamer2.rightclickitservices.com:7210/;stream.mp3</playurl></channel></category>
+<category rank="1" name="澳大利亚"><channel><rank>1</rank><name>澳洲印尼语频道</name><playurl>http://shoutmedia.abc.net.au:10344/</playurl></channel></category>
+<category rank="1" name="德国"><channel><rank>1</rank><name>B5 Plus</name><playurl>http://gffstream.ic.llnwd.net/stream/gffstream_w6a</playurl></channel></category>
+<category rank="1" name="德国"><channel><rank>1</rank><name>Deutschlandfunk </name><playurl>http://dradio_mp3_dlf_m.akacast.akamaistream.net/7/249/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dlf_m</playurl></channel></category>
+<category rank="1" name="德国"><channel><rank>1</rank><name>Klassik radio</name><playurl>http://edge.live.mp3.mdn.newmedia.nacamar.net/klassikradio128/livestream.mp3</playurl></channel></category>
+<category rank="1" name="德国"><channel><rank>1</rank><name>Radio Hitwelle</name><playurl>http://178.248.246.140:8000/stream.aac</playurl></channel></category>
+<category rank="1" name="德国"><channel><rank>1</rank><name>德国Bayern 1</name><playurl>mmsh://gffstream-w1b.wm.llnwd.net/gffstream_w1b</playurl></channel></category>
+<category rank="1" name="德国"><channel><rank>1</rank><name>德国Bayern 3</name><playurl>mmsh://gffstream-w5b.wm.llnwd.net/gffstream_w5b</playurl></channel></category>
+<category rank="1" name="新西兰"><channel><rank>1</rank><name>The Breeze </name><playurl>mmsh://wmstream.mediaworks.co.nz/breezewellington</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>Banana FM 87.7</name><playurl>mmsh://simuledge.shibapon.net/BananaFM</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>Beach FM </name><playurl>mmsh://simul.freebit.net:8310/shonanbeachfma</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>B-FM791 79.1</name><playurl>mmsh://wms010.unite-inc.net/FM_K-City</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>Chofu FM 83.8</name><playurl>mmsh://wms.shibapon.net/ChofuFM</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Aizu 76.2</name><playurl>mmsh://wms.shibapon.net/FmAizu</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Castle 79.0</name><playurl>mmsh://211.1.40.29/castle</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM chupea 76.6</name><playurl>mmsh://wms.shibapon.net/FmChuPea</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Genki 79.3</name><playurl>mmsh://wms.shibapon.net/FmGenki</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Hanako 82.4</name><playurl>mmsh://203.141.136.171:8080/hanako1?WMContentBitrate=28800</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Izumi 797</name><playurl>mmsh://hdv2.nkansai.tv/fmizumi</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Kashima 76.7</name><playurl>mmsh://wms.shibapon.net/FmKashima</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>Fm Kita</name><playurl>mmsh://wms.shibapon.net/FmKita</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Lequio 80.6</name><playurl>mmsh://wms.shibapon.net/FmLequio</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Miki 76.1</name><playurl>mmsh://wms.shibapon.net/FmMiki</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Nirai 79.2</name><playurl>mmsh://wms.shibapon.net/FmNirai</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Salus 84.1</name><playurl>mmsh://wms.shibapon.net/FmSalus</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Tachikawa 84.4</name><playurl>mmsh://wms.shibapon.net/FmTachikawa</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Takarazuka 83.5</name><playurl>mmsh://simuledge.shibapon.net/FmTakarazuka</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Tanabe 88.5</name><playurl>mmsh://simuledge.shibapon.net/FmTanabe</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Toyomi 83.2</name><playurl>mmsh://simuledge.shibapon.net/FmToyomi</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Wappy 76.1</name><playurl>mmsh://fmwappy.aa0.netvolante.jp:8080</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM West Tokyo 84.2</name><playurl>mmsh://simuledge.shibapon.net/FmNishiTokyo</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Yamato 77.7</name><playurl>mmsh://wms.shibapon.net/FMYamato</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>FM Yutopia 76.3</name><playurl>mmsh://wms.shibapon.net/FmYutopia</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>Kazusa FM 83.4</name><playurl>mmsh://wms010.unite-inc.net/KazusaFM</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>Kushiro FM94.6</name><playurl>mmsh://simuledge.shibapon.net/FmKushiro</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>Maebashi City FM </name><playurl>mmsh://radio.maebashi.fm:8080/mwave</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>Mid FM 76.1</name><playurl>mmsh://wms.shibapon.net/mid-fm761</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>Musashino FM 78.2</name><playurl>mmsh://wms.shibapon.net/MusashinoFM</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>NHK国际广播</name><playurl>mmsh://wm.nhk.or.jp:80/rj/on_demand/wma/japanese.wma</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>Rainbowtown 79.2</name><playurl>mmsh://simuledge.shibapon.net/RainbowtownFM</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>RU RI FM 83.7</name><playurl>mmsh://wms.shibapon.net/fm837</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>Yes FM 78.1</name><playurl>mmsh://wms.shibapon.net/YesFM</playurl></channel></category>
+<category rank="1" name="日本"><channel><rank>1</rank><name>Yokote Kamakura </name><playurl>mmsh://wms.shibapon.net/FmYokote</playurl></channel></category>
+<category rank="1" name="法国"><channel><rank>1</rank><name>法国BFM电台 </name><playurl>http://vipicecast.yacast.net/bfm</playurl></channel></category>
+<category rank="1" name="法国"><channel><rank>1</rank><name>法国RFM电台 </name><playurl>http://vipicecast.yacast.net/rfm</playurl></channel></category>
+<category rank="1" name="法国"><channel><rank>1</rank><name>法国RMC电台 </name><playurl>http://vipicecast.yacast.net/rmc</playurl></channel></category>
+<category rank="1" name="法国"><channel><rank>1</rank><name>法国国际广播</name><playurl>http://95.81.146.2/franceinter/all/franceinterhautdebit.mp3</playurl></channel></category>
+<category rank="1" name="西班牙"><channel><rank>1</rank><name>Ambiente FM 91.9</name><playurl>http://80.237.159.61:80</playurl></channel></category>
+<category rank="1" name="西班牙"><channel><rank>1</rank><name>Onda Uno 96.6 FM</name><playurl>http://62.43.226.121:2300</playurl></channel></category>
+<category rank="1" name="西班牙"><channel><rank>1</rank><name>Radio 4</name><playurl>http://195.10.10.213/rtve/radio4.mp3</playurl></channel></category>
+<category rank="1" name="西班牙"><channel><rank>1</rank><name>Radio 5</name><playurl>http://195.10.10.219/rtve/radio5.mp3</playurl></channel></category>
+<category rank="1" name="西班牙"><channel><rank>1</rank><name>Radio Clásica</name><playurl>http://195.10.10.206/rtve/radioclasica.mp3</playurl></channel></category>
+<category rank="1" name="西班牙"><channel><rank>1</rank><name>Radio Exterior </name><playurl>http://195.10.10.210/rtve/radioexterior.mp3</playurl></channel></category>
+<category rank="1" name="西班牙"><channel><rank>1</rank><name>Radio Nacional</name><playurl>http://195.10.10.221/rtve/radio1.mp3</playurl></channel></category>
+<category rank="1" name="韩国"><channel><rank>1</rank><name>Chunchon AM (MBC) (HLAN) </name><playurl>mmsh://222.113.53.4/chmbcam</playurl></channel></category>
+<category rank="1" name="韩国"><channel><rank>1</rank><name>DJ CBS (HLDX)</name><playurl>mmsh://210.91.227.146:8080/</playurl></channel></category>
+<category rank="1" name="韩国"><channel><rank>1</rank><name>FEBC Changwon FM (HLDD-FM)</name><playurl>mmsh://live.febc.net/changwon_febc</playurl></channel></category>
+<category rank="1" name="韩国"><channel><rank>1</rank><name>PBC FM Daegu (HLDK) </name><playurl>mmsh://61.106.58.10:1088/</playurl></channel></category>
+<category rank="1" name="韩国"><channel><rank>1</rank><name>Radio Seoul </name><playurl>mmsh://74.114.48.148/radioseoul</playurl></channel></category>
+<category rank="1" name="以色列"><channel><rank>1</rank><name>1540 The Voice of Peace</name><playurl>http://uk2-vn.mixstream.net:8004</playurl></channel></category>
+<category rank="1" name="以色列"><channel><rank>1</rank><name>Jerusalem FM 101</name><playurl>mmsh://212.150.243.29/101fm</playurl></channel></category>
+<category rank="1" name="以色列"><channel><rank>1</rank><name>Radio Yasoo</name><playurl>http://radio-yasoo.ath.cx:7500/</playurl></channel></category>
+<category rank="1" name="俄罗斯"><channel><rank>1</rank><name>Radio Russia</name><playurl>mmsh://live.rfn.ru/radiorussia</playurl></channel></category>
+<category rank="1" name="俄罗斯"><channel><rank>1</rank><name>TMK (Tatar radio)</name><playurl>http://stream7.radiostyle.ru:8007/radio-tmk</playurl></channel></category>
+<category rank="1" name="印度"><channel><rank>1</rank><name>Geetham Tamil Radio</name><playurl>http://www.geethamradio.com:8020/hifi.mp3</playurl></channel></category>
+<category rank="1" name="印度"><channel><rank>1</rank><name>Kalighat Radio</name><playurl>http://198.154.106.102:8419</playurl></channel></category>
+<category rank="1" name="印度"><channel><rank>1</rank><name>Radio City IndiPop</name><playurl>http://208.115.222.205:9968</playurl></channel></category>
+<category rank="1" name="印度"><channel><rank>1</rank><name>Radio Sindhi</name><playurl>http://208.109.186.29:8203</playurl></channel></category>
+</root>

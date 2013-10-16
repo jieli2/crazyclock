@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+        <LinearLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+             <TextView
+                android:id="@+id/textView_title_bar"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="2"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:text="@string/alarm_task"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/primary_text_dark" />
+    
+            <ImageButton
+                android:id="@+id/save_task"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@android:color/black"
+                android:contentDescription="@string/button_save"
+    
+                android:src="@drawable/save" />
+	       
+        </LinearLayout>
+        
+        <View
+            android:id="@+id/title_border_bottom"
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:layout_margin="0dp"
+            android:background="@color/holo_blue_light"
+            android:padding="0dp" />
+
+        <Spinner
+            android:id="@+id/tasktype"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:layout_width="fill_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+          
+            android:layout_height="wrap_content" />
+
+        <FrameLayout
+            android:id="@+id/taskframe"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/broadcast"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="#00000000"
+                android:visibility="invisible" >
+
+                <ListView
+                    android:id="@+id/channellist"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#00000000"
+                    android:listSelector="@drawable/list_selector" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dial"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:visibility="invisible" >
+
+                <EditText
+                    android:id="@+id/text_dial_to"
+                    android:layout_width="fill_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:phoneNumber="true"
+                    android:hint="请输入电话号码"
+                    android:layout_height="wrap_content"
+                    android:textSize="16dip" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/sms"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:visibility="invisible" >
+
+                <EditText
+                    android:id="@+id/text_sms_to"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:phoneNumber="true"
+                    android:hint="请输入电话号码"
+                    android:textSize="16dip" />
+
+                <EditText
+                    android:id="@+id/text_sms_msg"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:hint="请输入信息内容"
+                    android:textSize="16dip" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/audio"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:visibility="invisible" >
+
+                <TextView
+                    android:id="@+id/text_record_audio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:text="60秒录音"
+                    android:textSize="16dip" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/video"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:visibility="invisible" >
+
+                <TextView
+                    android:id="@+id/text_record_audio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:text="30秒视频"
+                    android:textSize="16dip" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/picture"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:visibility="invisible" >
+
+                <TextView
+                    android:id="@+id/text_record_audio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:text="连续拍照3张"
+                    android:textSize="16dip" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <LinearLayout
+            android:id="@+id/okCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/textView_cancel"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="@string/cancel"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/primary_text_dark" />
+
+            <View
+                android:id="@+id/view1"
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="#333333" />
+
+            <TextView
+                android:id="@+id/textView_OK"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="@string/ok"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/primary_text_dark" />
+        </LinearLayout>
+    </LinearLayout>
+
